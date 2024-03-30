@@ -1,13 +1,13 @@
-package com.luv2code.springcoredemo;
+package com.hamzaakbar.sql;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringcoredemoApplication {
+public class SqlApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringcoredemoApplication.class, args);
+		SpringApplication.run(SqlApplication.class, args);
 	}
 
 }
